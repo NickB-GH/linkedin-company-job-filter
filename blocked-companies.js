@@ -215,12 +215,15 @@ window.NB_BLOCKED_COMPANIES = [
 
   "100percent","160over90","270b","3m","500 degrees","6sense","7 brew coffee",
 
-  "The Guardian", "Penguin Random House", "The Wall Street Journal", "SpaceX", "Cruise", "Cruises", "Roc Nation",
-  "Blue Water Thinking", "Fender", "Paramount", "HDR", "OH Partners Ltd.", "Nestlé", "The Designer Coach", "CNN", 
-  "SocialSizes.io", "Chedraui", "EY", "Zimmerman Advertising", "Brighton Collectibles", "Animation World Network", 
-  "Burjline Builders", "US Tech Solutions", "RAPP", "Manière De Voir", "Convive Brands", "1898 & Co.", "Help Scout", 
+  "The Guardian","Penguin Random House","The Wall Street Journal","SpaceX","Cruise","Cruises","Roc Nation","DE-YAN",
+  "Blue Water Thinking","Fender","Paramount", "HDR", "OH Partners Ltd.","Nestlé", "The Designer Coach", "CNN","Nodpod",
+  "SocialSizes.io", "Chedraui", "EY", "Brighton Collectibles","Animation World Network","Misfits Market","IGT","GMMB",
+  "Burjline Builders", "US Tech Solutions", "RAPP", "Manière De Voir", "Convive Brands","1898 & Co.","Help Scout","g—kx",
   "Stila Cosmetics", "Undisclosed", "Kimley-Horn", "Associated Grocers of New England", "Software Guidance & Assistance", 
   "YourStudio", "BAA GROUPS", "Condé Nast", "New York Technology Partners", "URBN", "Southern Poverty Law Center", "Capital One",
-  "GENICOOK PRODUCTS", "LEGO Group", "MATTE Projects", "Digitas North America", "MrBeast", "Best Buy", "Emerging Blue", 
-  "Monks", "ATTN:", "Anthropic", "OpenAI","Bakery Agency", "Sesame", "Lume Deodorant", "WongDoody", "Crate & Barrel"
+  "GENICOOK PRODUCTS", "LEGO Group", "MATTE Projects", "Digitas North America", "MrBeast", "Best Buy", "Emerging Blue","the community",
+  "Monks", "ATTN:", "Anthropic", "OpenAI","Bakery Agency","Sesame","Lume Deodorant","WongDoody","Crate & Barrel", "saatchi", "tubi"
+  "monster","we are social","MxZoom","Atomik Growth","Wonder Unit","Designity","Little Plains","AIOS","Iru","BioSpace","Colle McVoy"
+"YoungLA", "kraken","Material","Greenbow","JAKKS","Derse","Partiful","","","","","","","","","","","","","","","","",""
+"
 ];
