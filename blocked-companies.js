@@ -213,5 +213,14 @@ window.NB_BLOCKED_COMPANIES = [
   "zurn elkay",
 
 
-  "100percent","160over90","270b","3m","500 degrees","6sense","7 brew coffee"
+  "100percent","160over90","270b","3m","500 degrees","6sense","7 brew coffee",
+
+  "The Guardian", "Penguin Random House", "The Wall Street Journal", "SpaceX", "Norwegian Cruise Line Holdings Ltd.", 
+  "Blue Water Thinking", "Fender", "Paramount", "HDR", "OH Partners Ltd.", "Nestlé", "The Designer Coach", "CNN", 
+  "SocialSizes.io", "Chedraui", "EY", "Zimmerman Advertising", "Brighton Collectibles", "Animation World Network", 
+  "Burjline Builders", "US Tech Solutions", "RAPP", "Manière De Voir", "Convive Brands", "1898 & Co.", "Help Scout", 
+  "Stila Cosmetics", "Undisclosed", "Kimley-Horn", "Associated Grocers of New England", "Software Guidance & Assistance", 
+  "YourStudio", "BAA GROUPS", "Condé Nast", "New York Technology Partners", "URBN", "Southern Poverty Law Center", "Capital One",
+  "GENICOOK PRODUCTS", "LEGO Group", "MATTE Projects", "Digitas North America", "MrBeast", "Best Buy", "Emerging Blue", 
+  "Monks", "ATTN:", "Anthropic", "OpenAI",
 ];
