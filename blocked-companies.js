@@ -222,7 +222,7 @@ window.NB_BLOCKED_COMPANIES = [
   "Stila Cosmetics", "Undisclosed", "Kimley-Horn", "Associated Grocers of New England", "Software Guidance & Assistance", 
   "YourStudio", "BAA GROUPS", "Condé Nast", "New York Technology Partners", "URBN", "Southern Poverty Law Center", "Capital One",
   "GENICOOK PRODUCTS", "LEGO Group", "MATTE Projects", "Digitas North America", "MrBeast", "Best Buy", "Emerging Blue","the community",
-  "Monks", "ATTN:", "Anthropic", "OpenAI","Bakery Agency","Sesame","Lume Deodorant","WongDoody","Crate & Barrel", "saatchi", "tubi"
-  "monster","we are social","MxZoom","Atomik Growth","Wonder Unit","Designity","Little Plains","AIOS","Iru","BioSpace","Colle McVoy"
+  "Monks", "ATTN:", "Anthropic", "OpenAI","Bakery Agency","Sesame","Lume Deodorant","WongDoody","Crate & Barrel", "saatchi", "tubi",
+  "monster","we are social","MxZoom","Atomik Growth","Wonder Unit","Designity","Little Plains","AIOS","Iru","BioSpace","Colle McVoy",
 "YoungLA", "kraken","Material","Greenbow","JAKKS","Derse","Partiful"
 ];
