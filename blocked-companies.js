@@ -443,4 +443,3 @@ window.NB_BLOCKED_COMPANIES = [
   "monster","we are social","MxZoom","Atomik Growth","Wonder Unit","Designity","Little Plains","AIOS","Iru","BioSpace","Colle McVoy",
 "YoungLA", "kraken","Material","Greenbow","JAKKS","Derse","Partiful"
 ];
-];
