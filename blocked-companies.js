@@ -224,5 +224,8 @@ window.NB_BLOCKED_COMPANIES = [
   "GENICOOK PRODUCTS", "LEGO Group", "MATTE Projects", "Digitas North America", "MrBeast", "Best Buy", "Emerging Blue","the community",
   "Monks", "ATTN:", "Anthropic", "OpenAI","Bakery Agency","Sesame","Lume Deodorant","WongDoody","Crate & Barrel", "saatchi", "tubi",
   "monster","we are social","MxZoom","Atomik Growth","Wonder Unit","Designity","Little Plains","AIOS","Iru","BioSpace","Colle McVoy",
-"YoungLA", "kraken","Material","Greenbow","JAKKS","Derse","Partiful"
+"YoungLA", "kraken","Material","Greenbow","JAKKS","Derse","Partiful","Sotheby's","Forbes","Victoria Beckham Beauty","Hometap", "RP3 Agency",
+  "AlphaSense", "Hugh Chatham Health", "Advocate Health", "REP Fitness", "Streetsense", "OluKai", "Manychat", "Eco-Products", "Maxwood Furniture",
+  "UNFOLD", "Generac", "Central Insurance", "Erlanger", "Instagram", "Compass", "TEDx", "Online Jobs Philippines", "Royal Caribbean Group",
+  "DXC Technology", "Technostripe",  "Apex Systems", "Fourth Floor", "Sable Social", "Chartwells Higher Education"
 ];
