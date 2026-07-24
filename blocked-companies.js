@@ -225,5 +225,4 @@ window.NB_BLOCKED_COMPANIES = [
   "Monks", "ATTN:", "Anthropic", "OpenAI","Bakery Agency","Sesame","Lume Deodorant","WongDoody","Crate & Barrel", "saatchi", "tubi"
   "monster","we are social","MxZoom","Atomik Growth","Wonder Unit","Designity","Little Plains","AIOS","Iru","BioSpace","Colle McVoy"
 "YoungLA", "kraken","Material","Greenbow","JAKKS","Derse","Partiful"
-"
 ];
