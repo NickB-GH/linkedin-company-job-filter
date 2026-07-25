@@ -227,5 +227,13 @@ window.NB_BLOCKED_COMPANIES = [
 "YoungLA", "kraken","Material","Greenbow","JAKKS","Derse","Partiful","Sotheby's","Forbes","Victoria Beckham Beauty","Hometap", "RP3 Agency",
   "AlphaSense", "Hugh Chatham Health", "Advocate Health", "REP Fitness", "Streetsense", "OluKai", "Manychat", "Eco-Products", "Maxwood Furniture",
   "UNFOLD", "Generac", "Central Insurance", "Erlanger", "Instagram", "Compass", "TEDx", "Online Jobs Philippines", "Royal Caribbean Group",
-  "DXC Technology", "Technostripe",  "Apex Systems", "Fourth Floor", "Sable Social", "Chartwells Higher Education"
+  "DXC Technology", "Technostripe",  "Apex Systems", "Fourth Floor", "Sable Social", "Chartwells Higher Education",
+  "Handshake", "Disney", "Jack & Jill", "MGM", "GitHub", "lululemon", "Fever", "Critical Mass", "Weissman",
+  "Monks", "Sony", "MKG", "Sonoma", "Kitchen North America", "Campbell’s", "NinjaOne", "StockX", "Braze", "GSW",
+  "PREMIER Bank", "Copart", "Gradial", "Hilton Head Island", "Antares", "Franco Studios", "Pride Health",
+  "Hometap", "RP3 Agency", "AlphaSense", "Hugh Chatham", "OKX", "REP Fitness", "Streetsense", "OluKai",
+  "Manychat", "Eco-Products", "Maxwood Furniture", "UNFOLD", "Generac", "Central Insurance", "Ampersand Brands",
+  "Opensity Solutions", "Partiful", "White & Case", "Cintas", "Premise Health", "Orgill", "DXC Technology",
+  "Orix Digi", "STAPHAUS", "Sauna by Wordware", "YourStudio", "Tenaska", "L.A.B. Golf", "Protective Life", "Allegacy Financial",
+  "WellMore Holdings", "S&C Electric Company", "Sodexo", "Alliance Consumer Group", "Axsome Therapeutics",
 ];
