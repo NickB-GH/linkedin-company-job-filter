@@ -230,5 +230,5 @@ window.NB_BLOCKED_COMPANIES = [
   "xcel energy", "xona", "xplor", "yahoo", "yamaha", "yashify",
   "young lamore", "YoungLA", "yourcnb", "yourstudio", "z gallerie", "zagg",
   "zealot", "zebra technologies", "zevia", "zillow", "zimmerman", "zubi",
-  "zurn elkay",
+  "zurn elkay", "revel", "bjak", "resource innovations"
 ];
