@@ -1465,6 +1465,7 @@ window.NB_BLOCKED_COMPANIES = [
 "space foundation",
 "spacex",
 "spark",
+"sparks", 
 "spartan ventures",
 "spartannash",
 "specialized",
