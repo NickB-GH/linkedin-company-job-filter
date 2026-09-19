@@ -1,5 +1,9 @@
 window.NB_BLOCKED_COMPANIES = [
-"rrd",
+"axon",
+"global sumi technologies inc.",
+"global sumi technologies inc.,",
+"optomi",  
+  "rrd",
 "rr donnelley",
 "sparks",  
 "3-gis",
