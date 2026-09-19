@@ -1,4 +1,7 @@
 window.NB_BLOCKED_COMPANIES = [
+"rrd",
+"rr donnelley",
+"sparks",  
 "3-gis",
 "3m",
 "6sense",
