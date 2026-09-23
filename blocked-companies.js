@@ -1836,4 +1836,5 @@ window.NB_BLOCKED_COMPANIES = [
 "FASTSIGNS Parker/Castle Rock",
 "AI-training work",
 "Handshake AI Fellowship",
+  "SKIMS", "NetJets",
 ];
