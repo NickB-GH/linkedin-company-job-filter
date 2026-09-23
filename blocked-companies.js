@@ -1,4 +1,11 @@
 window.NB_BLOCKED_COMPANIES = [
+"Free People","Figma","IDEO","Outdoor Cap Company","Fiverr","Brown & Brown","Ripple","Deerfield Academy",
+"Victoria’s Secret & Co.","Fourth Floor","SentiLink","Illumio","Event Network, LLC","Comcast",
+"Base-2 Solutions","Crunchyroll","Kiss Beauty Group","Hard Rock Digital","Picnic","Doeren Mayhew",
+"Polsinelli","CPG Agency","Vizcom","B InBev APAC","Cricut","3D Exhibits","Title Nine","Justrite Safety Group",
+"CxAlloy","Matthews™","American Bible Society","New Era Technology","El Pollo Loco, Inc.",
+"4KIDS","Basis","LOQUII","Homesteaders Life Company","Compass Christian Church","Adobe",
+"Collina Digital","elcan","AMD","C2 Graphics Productivity Solutions",
 "axon",
 "global sumi technologies inc.",
 "global sumi technologies inc.,",
