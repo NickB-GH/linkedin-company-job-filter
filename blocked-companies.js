@@ -7,7 +7,7 @@ window.NB_BLOCKED_COMPANIES = [
 "4KIDS","Basis","LOQUII","Homesteaders Life Company","Compass Christian Church","Adobe","KPMG US","Funko",
 "Collina Digital","elcan","AMD","C2 Graphics Productivity Solutions","PTR Global","Inizio Evoke","FBT Gibbons",
 "Propac Agency","Linqia","KeHE Distributors","Resideo","Memorial Healthcare System","Equifax","Freshworks",
-"Texas Children's Hospital","RemotelyHR",
+"Texas Children's Hospital","RemotelyHR","Dexian","gaui",
 "axon",
 "global sumi technologies inc.",
 "global sumi technologies inc.,",
