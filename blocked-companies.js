@@ -1,4 +1,11 @@
 window.NB_BLOCKED_COMPANIES = [
+"HonorVet Technologies",
+"iLocatum",
+"IMCS",
+"INSPYR Solutions",
+"Joblet-AI",
+"SMARTFOX",
+"V Group Inc.",
 "HPI Real Estate Services & Investments",
 "Philbrook Museum of Art",
 "Traversal",
